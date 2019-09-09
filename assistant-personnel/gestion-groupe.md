@@ -1,7 +1,7 @@
 # Découvrez votre assitant personnel numérique
 
 > Bienvenue dans l'équipe présentation d'un **Assistant-personnel** numérique!
- structurer les projets Sass . Si votre stage ou votre lieu de travail éventuel utilise Sass, il est fort probable qu'ils utilisent certaines variantes de ce type d'architecture. Veillons donc à vous familiariser avec ce sujet avant de continuer!
+(texte à rajouter pour expliquer vite fait notre sujet)!
 
 
 ## Gestion de l'équipe et des tâches :
