@@ -19,19 +19,28 @@ C’est parti!
 *** DECOUVRIR L'ASSISTANCE PERSONNELLE INTELLIGENCE SOUS DIFFERENTES FORMES ***
 
 -> sur votre téléphone:
-()
+() Exemple avec Google Assistant (sur Android) par Benjamin
+* estimation du temps de la présentation environ 10'
 
 
 -> sur votre ordinateur (au bureau ou ordinateur personnel):
-()
-
+() Exemple avec Siri (Apple) par Anaïs
+() Exemple avec l'un des assistants disponibles sur linux ou windows par Amandine
+* estimation du temps de la présentation environ 10' (en choississant l'une ou l'autre)
 
 -> sur vos autres support d'écran (tablette, écran, télé, etc
-()
-
+() pas de présentation pour ce type d'objet de prévu ()
+* Estimation du temps de la présentation environ 10'
 
 -> sur vos objets connectées (montres, objet connectés)
-()
+() Exemple Samsung Bixby par Louis
+* Estimation du temps de la présentation environ 10'
+
+___________________________________________________
+Afin de garder nos meilleures astuces ou conseils, 
+nous pensons à créer un flyer qui résume les possibilités d'obtenir cette fonctionnalité d'assistant virtuel
+avec "en gros" les démarches à suivre, liens à consulter, etc
+____________________________________________________ 
 
 
 *** PARLER DE NOTRE ROLE AUTOUR DE YES WE WEB ***
