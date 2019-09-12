@@ -82,7 +82,7 @@ _________________________________________________________________________
 ## Déroulement de la présentation :
 
 
-> (ici explication de comment on va procéder pour la présentation public).
+> Accueil du public 
 
 
 _________________________________________________________________________
@@ -90,6 +90,10 @@ _________________________________________________________________________
 ## Marketing du groupe:
 
 1. Anaïs :
+
+Nous avons décidé d'oragniser notre travail comme suit :
+- mise en place d'une table haut, afin de rendre plus visible le matéreil de démonstration. Il s'agit aussi d'une question d'ergonomie, en effet, les utilisateurs n'auront pas à se pencher pour pouvoir observer les outils puisque ces derniers seront directement à leur hauteur.
+- Afin de se démarquer des autres stands, nous avons optés pour un rollup (panneau publicitaire qui fait office de signalitique) grand format horizontal pour indiquer visuellement ...
 
 > (ici explication du travail effectué).
 > Mais notez **qu'il n'y a pas de styles définis directement dans le fichier d'entrée main.scss** . Dans l'architecture 7-1, tous les styles vivent dans un partiel nommé de manière appropriée et sont simplement importés dans le fichier d'entrée.
