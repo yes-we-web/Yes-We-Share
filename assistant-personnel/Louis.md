@@ -24,6 +24,7 @@ De plus, vous donnez à Bixby non seulement des commandes vocales, mais égaleme
 
 
 **Caractéristiques**
+
 Bixby est composé de trois parties :
 
 Bixby Voice, avec Bixby Voice, l'utilisateur peut déclencher Bixby en l'appelant ou en appuyant et en maintenant le bouton situé en dessous du bouton volume, surnommé le Bixby Bouton.
