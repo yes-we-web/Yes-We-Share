@@ -97,7 +97,11 @@ _________________________________________________________________________
 ## Déroulement de la présentation :
 
 
-> Accueil du public 
+> Accueil du public par deux membres en amont du stand, 
+> Présentation des divers assistants : sur smartphone, sur ordinateur et sur montre connectée.
+> Petite présentation de Yes we web/ yes we share
+> Proposer de participer au Quizz
+> proposer de visiter un stand en corrélation 
 
 
 _________________________________________________________________________
@@ -106,9 +110,11 @@ _________________________________________________________________________
 
 1. Anaïs :
 
-Nous avons décidé d'oragniser notre travail comme suit :
-- mise en place d'une table haut, afin de rendre plus visible le matéreil de démonstration. Il s'agit aussi d'une question d'ergonomie, en effet, les utilisateurs n'auront pas à se pencher pour pouvoir observer les outils puisque ces derniers seront directement à leur hauteur.
-- Afin de se démarquer des autres stands, nous avons optés pour un rollup (panneau publicitaire qui fait office de signalitique) grand format horizontal pour indiquer visuellement ...
+Que ce soit pour délivrer des informations ou faire notre promotion, l’affichage permet de diffuser notre message de façon claire et rapide. C’est un média à part entière, qui utilise de nombreux vecteurs et des supports variés, selon l’objectif poursuivi.
+Nous avons donc décidé d'oragniser notre travail comme suit :
 
-> (ici explication du travail effectué).
-> Mais notez **qu'il n'y a pas de styles définis directement dans le fichier d'entrée main.scss** . Dans l'architecture 7-1, tous les styles vivent dans un partiel nommé de manière appropriée et sont simplement importés dans le fichier d'entrée.
+- mise en place d'une table haut, afin de rendre plus visible le matéreil de démonstration. Il s'agit aussi d'une question d'ergonomie, en effet, les utilisateurs n'auront pas à se pencher pour pouvoir observer les outils puisque ces derniers seront directement à leur hauteur.
+
+- Afin de se démarquer des autres stands, nous avons optés pour un rollup (panneau publicitaire qui fait office de signalétique) grand format horizontal pour indiquer visuellement noter identité et où se situe notre stand. Il est très facilement transportable et peut être déplacé à loisir.
+
+- Présence de flyers, avec le récapitulatif de notre présentation afin de donner l'envie aux visiteurs d'en savoir plus.
