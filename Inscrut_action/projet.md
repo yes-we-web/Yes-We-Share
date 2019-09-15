@@ -9,3 +9,13 @@ Littéralement traduit par : _« clé chromatique »_ de l’anglais. Ces chroma
 **Les écouteurs sans-fil/bluetooth :** Technologie nouvelle, de meilleure qualité par rapport aux écouteurs traditionnels.
 
 **Recharge par induction de smartphone à smartphone :** Démonstration d'un rechargement de batterie d'un smartphone A à un smartphone B.
+
+Pour cette présentation, nous aurons besoin :
+
+- d'une table haute (ronde du hub);
+- d'une table classique;
+- d'un canapé;
+- de punaises;
+- d'une rallonge;
+
+et d'une Mercedes Classe A 220d 2019 avec faible kilométrage si possible, merci.
