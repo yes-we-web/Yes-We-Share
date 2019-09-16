@@ -19,3 +19,5 @@ Pour cette présentation, nous aurons besoin :
 - d'une rallonge;
 
 et d'une Mercedes Classe A 220d 2019 avec faible kilométrage si possible, merci.
+
+**Question : "Quel logiciel a été utilisé pendant la présentation du fond vert ?"**
