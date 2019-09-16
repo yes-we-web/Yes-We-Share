@@ -23,4 +23,4 @@ Accessoires
 Sport
 Nintendo Labs
 
-# Question : Peut-on vivre du jeu video ?
+# Question : Qui fût le sponsor de la première compétition E-Sport ?
